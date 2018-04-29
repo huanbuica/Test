@@ -13,6 +13,7 @@ namespace MVC4FormsAuth.Web.Controllers
         {
             //var test = System.Web.HttpContext.Current.Request.ServerVariables["SERVER_PROTOCOL"].ToString();
             //new comment line
+            //another comment line
             return View();
         }
     }
